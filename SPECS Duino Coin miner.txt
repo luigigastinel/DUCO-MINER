@@ -1,0 +1,26 @@
+
+
+DUINO COIN MINER
+BY: luigigastinel
+
+You will need:
+
+Single version (1PCB):
+1x PCB (GERBERS in GitHub) 
+10x ESP01S
+1x lm2596
+1x LED
+1x male jumper
+
+
+TANDEM VERSION (2PCB):
+2x PCB (GERBERS in GitHub) 
+20x ESP01S
+2x lm2596
+2x LED
+2x male jumper
+
+
+ALSO:
+Soldering iron
+Tweezers
